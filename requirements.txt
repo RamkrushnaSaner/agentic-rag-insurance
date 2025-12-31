@@ -8,3 +8,6 @@ tiktoken
 pandas
 numpy
 tqdm
+sentencepiece
+accelerate
+streamlit
