@@ -7,6 +7,12 @@ with **high precision and possiable least hallucination**.
 The system is built for **regulated domains** where answers must be grounded
 strictly in the source document.
 
+## 🖥️ Interactive Application
+
+Below is the Streamlit-based interactive interface for querying insurance policy documents using the Agentic RAG pipeline:
+
+![Agentic RAG Insurance App](assets/streamlit_app_ui.png)
+
 ---
 
 ## 🔍 Problem Statement
